@@ -1,5 +1,5 @@
 # Forecasting Data
-#
+
 
 ## Simple Forecasting Methods
 - https://www.otexts.org/fpp/2/3
