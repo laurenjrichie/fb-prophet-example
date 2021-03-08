@@ -1,4 +1,4 @@
-# Forecasting Data
+## Forecasting Data
 
 
 ## Simple Forecasting Methods
